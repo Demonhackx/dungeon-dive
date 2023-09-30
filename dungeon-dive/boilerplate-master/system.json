@@ -26,9 +26,9 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/Demonhackx/dungeon-dive",
+  "manifest": "https://github.com/Demonhackx/dungeon-dive/raw/main/dungeon-dive/boilerplate-master/system.json",
+  "download": "https://github.com/Demonhackx/dungeon-dive/releases/download/1.2.0/dungeon-dive.zip",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
 }
