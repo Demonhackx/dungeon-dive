@@ -27,7 +27,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "https://github.com/Demonhackx/dungeon-dive",
-  "manifest": "https://github.com/Demonhackx/dungeon-dive/blob/main/dungeon-dive/boilerplate-master/system.json",
+  "manifest": "system.json",
   "download": "https://github.com/Demonhackx/dungeon-dive/archive/main.zip",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
